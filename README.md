@@ -26,7 +26,7 @@ Nott'm Forest and Charlton had the strongest home game advantage.
 
 - Does home ground referee bias exist?
 Referee bias does exist to some level in the game. They are more likely to be more lenient towards the home team awarding more fouls and giving more yellow and red cards to the away side. This maybe due to the pressure felt by the outnumbering home team fans in the stadiums.
-
+ (look at EPL Data Acquisition and Analysis.ipynb to see graphs, tables and heatmaps) 
 
 Improvement that can be made :
 - VAR is fairly new but looking at VAR decision data would help identify referee bias.
